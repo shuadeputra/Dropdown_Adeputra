@@ -20,6 +20,7 @@ class App extends Component {
       poin:'PAUD (Pendidikan Anak Usia Dini)',
       poin2:'TK (Taman Kanak-kanak)',
       poin3:'RA (Raudhatul Athfal)',
+      poin4:'',
     });   
   }
 
@@ -41,6 +42,7 @@ class App extends Component {
       poin:'SMA (Sekolah Menegah Atas)',
       poin2:'MA (Madrasah Aliyah)',
       poin3:'SMK (Sekolah Menengah Kejuruan)',
+      poin4:'',
     });   
   }
 
