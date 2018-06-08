@@ -50,7 +50,8 @@ class App extends Component {
       awal:'Jenjang Pendidikan Tinggi',
       poin:'D3 Diploma',
       poin2:'S1/D4 Sarjana',
-      poin3:'S3 Doktoral',
+      poin3:'S2 Magister',
+      poin4:'S3 Doktoral',
     });   
   }
 
